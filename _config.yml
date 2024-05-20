@@ -2,7 +2,7 @@
 title: My Projects
 description: Welcome to my portfolio! Here are some of the projects I've worked on.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yourusername.github.io" # the base hostname & protocol for your site
+url: "https://paulosuma.github.io/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
