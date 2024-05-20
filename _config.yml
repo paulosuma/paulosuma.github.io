@@ -6,7 +6,7 @@ url: "https://paulosuma.github.io/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 
 # Plugins
 plugins:
